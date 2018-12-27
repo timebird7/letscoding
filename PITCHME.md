@@ -18,5 +18,5 @@
 ---
 ### 2018년을 마무리하며
 
-<img src="https://image.flaticon.com/icons/svg/1087/1087972.svg" width='150' height="150" style="border:0"> <img src="https://image.flaticon.com/icons/svg/214/214335.svg" width='150' height="150" style="border:0"> <
+<img src="https://image.flaticon.com/icons/svg/1087/1087972.svg" width='150' height="150" style="border:0"> <img src="https://image.flaticon.com/icons/svg/214/214335.svg" width='150' height="150" style="border:0"> <br>
 <img src="https://image.flaticon.com/icons/svg/1170/1170586.svg" width='150' height='150' style="border:0"> <img src="https://image.flaticon.com/icons/svg/135/135624.svg" width='150' height='150' style="border:0">
