@@ -12,7 +12,7 @@
 
 ---
 
-![img](./IMG_7747.jpeg | width=100)
+![img](./IMG_7747.jpeg){:height="250px" width="250px"}
 
 
 ---
