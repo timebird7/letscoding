@@ -18,5 +18,5 @@
 ---
 ### 2018년을 마무리하며
 
-![img](https://image.flaticon.com/icons/svg/1087/1087972.svg){ : width="50%" height="50%"}
-![img](https://image.flaticon.com/icons/svg/214/214335.svg){ : width="200" height="200"}
+![img](https://image.flaticon.com/icons/svg/1087/1087972.svg)
+![img](https://image.flaticon.com/icons/svg/214/214335.svg)
