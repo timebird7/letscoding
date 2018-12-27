@@ -20,21 +20,12 @@
 ![img](https://image.flaticon.com/icons/svg/1087/1087972.svg)
 ![img](https://image.flaticon.com/icons/svg/214/214335.svg)
 
----?color=#E58537
+---
 
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+@snap[west span-50]
+## Customize Slide Content Layout
 @snapend
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](https://blog.zoho.com/wp-content/uploads/2017/03/24Slides-1.gif)
+@snap[east span-50]
+![](assets/img/presentation.png)
 @snapend
