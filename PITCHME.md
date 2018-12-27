@@ -12,8 +12,7 @@
 
 ---
 
-![img](./IMG_7747.jpeg)
-<img src="./IMG_7747.jpeg" width="100" height="100">
+<img src="./IMG_7747.jpeg" style='center' width="250" height="250">
 
 
 ---
