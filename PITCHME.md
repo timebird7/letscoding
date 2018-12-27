@@ -12,11 +12,11 @@
 
 ---
 
-![img](./IMG_7747.jpeg){:height="250px" width="250px"}
+![img](./IMG_7747.jpeg)
 
 
 ---
 ### 2018년을 마무리하며
 
-![img](https://image.flaticon.com/icons/svg/1087/1087972.svg)
+![img](https://image.flaticon.com/icons/svg/1087/1087972.svg?v=4&s=200)
 ![img](https://image.flaticon.com/icons/svg/214/214335.svg)
