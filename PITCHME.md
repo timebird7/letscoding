@@ -12,7 +12,7 @@
 
 ---
 
-<img src="./IMG_7747.jpeg" style='center' width="50%" height="50%">
+<img src="./IMG_7747.jpeg" style='center' width="70%" height="70%">
 
 
 ---
