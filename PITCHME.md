@@ -14,7 +14,6 @@
 
 <img src="./IMG_7747.jpeg" style='center border:0' width="70%" height="70%">
 
-
 ---
 ### 2018년을 마무리하며
 
