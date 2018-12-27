@@ -11,6 +11,11 @@
 - 최정화
 
 ---
-# 슬라이드 2
 
 ![img](./IMG_7747.jpeg)
+
+
+---
+### 2018년을 마무리하며
+![img](https://image.flaticon.com/icons/svg/1087/1087972.svg)
+![img](https://image.flaticon.com/icons/svg/214/214335.svg)
